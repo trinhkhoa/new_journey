@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App centered">
-      <img src="/falling2.gif" alt="falling2" />
+      <img src="public/falling2.gif" alt="falling2" />
       <p>
         Khi nhắc đến trò chơi điện tử, có lẽ đa số chúng ta sẽ nghĩ đến sự tàn bạo. Tuy nhiên, điều này không hoàn toàn đúng. Bài viết này sẽ đưa các bạn đến với một mặt khác của trò chơi điện tử. Đây là thế giới dưới lòng đất mà Toby Fox và Temmie Chang đã tạo ra, nơi mà bạn có quyền lựa chọn. Khi vận mệnh của cả thế giới nằm trong tay bạn, liệu bạn sẽ có đủ kiên nhẫn làm ra chiếc bánh ngọt cho mình, hay bạn vẫn sẽ đi theo lối mòn của sự bạo lực?
       </p>
