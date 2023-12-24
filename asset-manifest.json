@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/new_journey/static/css/main.dbbcc186.css",
+    "main.js": "/new_journey/static/js/main.68141a8c.js",
+    "index.html": "/new_journey/index.html",
+    "main.dbbcc186.css.map": "/new_journey/static/css/main.dbbcc186.css.map",
+    "main.68141a8c.js.map": "/new_journey/static/js/main.68141a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbcc186.css",
+    "static/js/main.68141a8c.js"
+  ]
+}
